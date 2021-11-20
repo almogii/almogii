@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @almogii
 - 👀 I’m interested in programing and sport
-- 🌱 I’m currently learning javascript htmi react 
+- 🌱 I’m currently learning javascript html& react 
 - 💞️ I’m looking to collaborate on anyting lol 
 - 📫 How to reach me by email almogitskovich@gmail.com
 
