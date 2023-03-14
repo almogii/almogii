@@ -18,9 +18,9 @@
 
 </p>
 
-
+<p align=center>
 <img src="https://github-readme-stats.vercel.app/api?username=almogii&theme=buefy&show_icons=true)">
-
+</p>
 
 <h3> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h3>
 
