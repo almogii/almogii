@@ -17,9 +17,11 @@
 </a>
 
 </p>
----
-<h3></h3>
----
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=almogii&theme=buefy&show_icons=true)">
+
+
 <h3> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h3>
 
 ```yaml
@@ -69,9 +71,7 @@ currently_learning: ["JS, React Native,Python"]
 
 ---
 
-<h2> 📈 &nbsp;My GitHub History!</h2>
 
-  ![Snake animation](https://github.com/almogii/almogii/blob/output/github-contribution-grid-snake.svg)
   
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=cf79f7&height=200&section=footer"/>
